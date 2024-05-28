@@ -199,8 +199,11 @@ body {
     left: 0;
     top: 0
 }
+.cat {
+    display: none;
+}
 .version-two .bg-w .overly{
-    background-color: rgb(0 0 0 / 40%);
+    background-color: rgb(0 0 0 / 70%);
     position: absolute;
     height: 100%;
     width: 100%;

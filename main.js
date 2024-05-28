@@ -12,7 +12,7 @@ let menu = document.querySelector(".menu")
 let roverLeft = document.querySelector(".rover-header-left")
 let roverRight = document.querySelector(" .rover-header-right")
 let roverHero = document.querySelector(".rover-mobile-hero")
-let theSecondImage = document.querySelector(".cat")
+let theSecondImage = document.querySelector(".bg-w img")
 
 logo.addEventListener("click" , (e)=> {
     main.classList.add("version-two");
